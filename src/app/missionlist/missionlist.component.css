@@ -1,0 +1,15 @@
+h1 {
+    color: #fff;
+}
+
+.filter-header-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter-header-wrap a {
+    cursor: pointer;
+    color: #007bff;
+}
+
+
