@@ -1,4 +1,6 @@
-# LabTest2Comp3133
+# Lab Test 2 COMP3133
+
+# By: Dayton Stephens - 101209355
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
